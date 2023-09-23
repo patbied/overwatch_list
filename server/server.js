@@ -1,4 +1,5 @@
 import express from "express";
+import './config/dotenv.js'
 import characterRouter from './routes/overwatch.js'
 
 const app = express()
