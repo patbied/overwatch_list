@@ -1,5 +1,5 @@
 import pg from 'pg'
-console.log('db pass',process.env.PGPASSWORD)
+// console.log('db pass',process.env.PGPASSWORD)
 const config = {
     user: process.env.PGUSER,
     password: process.env.PGPASSWORD,
