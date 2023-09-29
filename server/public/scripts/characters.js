@@ -2,7 +2,8 @@ const main_content = document.getElementById('main_content')
 const renderCharacters = async() => {
     const response = await fetch('/characters')
     const data = await response.json()
-    if (data) {
+    console.log(data)
+    if (data && !data.error) {
         console.log(data)
         data.map(char => {
             const card = document.createElement('article')
