@@ -22,10 +22,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/nXefCyW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/JLD2H63.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-GIF created with ...  GIF tool here
+https://imgur.com/gallery/JLD2H63
+GIF created with gifcap GIF tool
 
 
 ## Notes
